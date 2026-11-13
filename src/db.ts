@@ -1,0 +1,19 @@
+import 'dotenv/config'
+import mysql2 from 'mysql2/promise'
+
+const dataBase = mysql2.createPool({
+  host: process.env.DB_HOST,
+  user: process.env.DB_USER,
+  password: process.env.DB_PASSWORD,
+  database: process.env.DB_NAME,
+  waitForConnections: true,
+  connectionLimit: 10,
+  queueLimit: 0,
+})
+
+export async function connectMariaDB():Promise<void> {
+  await dataBase.query('SELECT 1');
+  console.log('MariaDB connected successfully');
+}
+
+export default dataBase

@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Database data
+mongo-data/
+data/
+uploads/
+
+# Private keys
+*private*.pem
+*.key
+
+# Local exports and archives
+PROJECT-SOURCE.txt
+*.tar
+*.tar.gz
+*.tgz
+
+# Backup files
+*.backup
+*.save
+*.bak
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

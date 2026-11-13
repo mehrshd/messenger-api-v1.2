@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log*
+.git
+.env
+uploadsDockerfile.backup
+.dockerignore.backup
+npm-cache-backup-*.tar.gz
