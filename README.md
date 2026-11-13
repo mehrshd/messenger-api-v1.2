@@ -4,14 +4,6 @@
 >
 > ALOKI Messenger is an API project focused on structured backend engineering: session-based authentication, account security, private conversations, message lifecycle operations, and a deliberately separated persistence model.
 
-<p align="center">
-  <strong>◆ TypeScript</strong> &nbsp;·&nbsp;
-  <strong>◆ Express 5</strong> &nbsp;·&nbsp;
-  <strong>◆ MariaDB</strong> &nbsp;·&nbsp;
-  <strong>◆ MongoDB</strong>
-</p>
-
-
 <div align="center">
 
 ## Programming Languages
