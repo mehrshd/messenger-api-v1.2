@@ -11,12 +11,53 @@
   <strong>◆ MongoDB</strong>
 </p>
 
+
+<div align="center">
+
+## Programming Languages
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Runtime & Backend Frameworks
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+## Databases & Data Storage
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## Architecture & Design Patterns
+
+![REST API](https://img.shields.io/badge/REST-API-02569B?style=for-the-badge)
+![Layered Architecture](https://img.shields.io/badge/Layered-Architecture-6A5ACD?style=for-the-badge)
+![Service Layer](https://img.shields.io/badge/Service-Layer-7952B3?style=for-the-badge)
+
+## Authentication & Security
+
+![Session Authentication](https://img.shields.io/badge/Session-Authentication-2563EB?style=for-the-badge)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-Password_Hashing-4A154B?style=for-the-badge)
+![Ed25519](https://img.shields.io/badge/Ed25519-Digital_Signature-555555?style=for-the-badge)
+
+## Libraries & Packages
+
+![Multer](https://img.shields.io/badge/Multer-File_Upload-7C3AED?style=for-the-badge)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-Email_Service-22A06B?style=for-the-badge)
+
+## DevOps & Infrastructure
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## Development & Testing Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+
+</div>
 
 ---
 
